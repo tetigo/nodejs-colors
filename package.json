@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-colors",
+  "version": "1.0.0",
+  "description": "Easy Colors in Console Log",
+  "main": "colors.js", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetigo/nodejs-colors.git"
+  },
+  "keywords": [],
+  "author": "Tiago Mendes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetigo/nodejs-colors/issues"
+  },
+  "homepage": "https://github.com/tetigo/nodejs-colors#readme"
+}
